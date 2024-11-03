@@ -1,4 +1,10 @@
-# COMP90089-Machine-Learning-Applications-for-Health-Group-2
+# COMP90089: Machine Learning Applications for Health 
+## Assignment 3
+### Group 2
+1. Keahna Hansen-Fernandez: 1087349
+2. Quanfeng LI: 1411076
+3. Yi-Chen Lo: 1294073
+4. Maxson Stephen Mathew: 1428525
 
  ## Abstract
 
@@ -13,13 +19,7 @@
 **Conclusion:** This study highlights the effectiveness of machine learning, particularly Random Forest, in classifying AMI and troponin levels, emphasising the need for additional biomarkers for finer troponin categorisation. Future work could focus on integrating neural networks, exploring routinely tested biomarkers, and testing models in clinical settings to improve timely interventions in AMI treatment.
 
 
-### Group 2
-1. Keahna Hansen-Fernandez: 1087349
-2. Quanfeng LI: 1411076
-3. Yi-Chen Lo: 1294073
-4. Maxson Stephen Mathew: 1428525
-
-This repository consists of 4 main directories.
+This repository consists of 3 main directories.
 
 1. **Data Extraction:** Contains code for data extraction freom MIMIC-IV data available through BigQuery.
 2. **Datasets:** Contains dataset extracted and preprocessed for this project.

@@ -21,6 +21,7 @@
 
 This repository consists of 3 main directories.
 
-1. **Data Extraction:** Contains code for data extraction freom MIMIC-IV data available through BigQuery.
-2. **Datasets:** Contains dataset extracted and preprocessed for this project.
-3. **Modelling:** Contains code for feature selecttion and modelling.
+1. **Data Extraction:** Contains code for data extraction from MIMIC-IV data available through BigQuery.
+2. **Data Processing:** Contains code for all the data preprocessing done on extracted data.
+3. **Datasets:** Contains dataset extracted and preprocessed for this project.
+4. **Modelling:** Contains code for feature selecttion and modelling.

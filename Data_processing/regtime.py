@@ -37,5 +37,3 @@ final_file_path = '/project/pythonProject1/data/Updated_Dataset_with_new_reg_tim
 data['stay_time'] = (data['stay_time'] / 3600).round(2)
 data['reg_time'] = (data['reg_time'] / 3600).round(2)
 
-# Display the updated dataset to the user
-import ace_tools as tools; tools.display_dataframe_to_user(name="Updated Data", dataframe=data)
